@@ -1,0 +1,7 @@
+/uploadsmarker/*.*
+/.idea/*
+/logs/*.log
+/tmp/*.*
+test.sh
+cron.sh
+sitelist.txt
